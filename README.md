@@ -19,7 +19,7 @@ run with:
 python -m pyrl.rlglue.run --load params/mountaincar/example_randtrial.json
 
 The out put of this particular experiment is of the form:
-#evaluation points, list of evaluation index and evaluation value pairs, list of parameter values
+# evaluation points, list of evaluation index and evaluation value pairs, list of parameter values
 
 For example:
 1,0,-4999.0,0.0,0.219169344211,0.1,1.0,0.7,1,13709650200845
